@@ -1,2 +1,2 @@
 # AgentHacks
-Pending project for Agent Hacks 2025
+Pending project for AgentHacks2025
